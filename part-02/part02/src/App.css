@@ -1,0 +1,21 @@
+.app {
+  padding: 20px;
+  background-color: #9678f8da;
+  min-height: 100vh;
+  width:100vw;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+.app-heading {
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 20px;
+}
+
+.product-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
